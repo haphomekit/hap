@@ -2,8 +2,9 @@
 Apple HomeKit accessory written in C.
 
 ===============
-Dear Apple, <br>
-If you want me to remove the repo, just send me an email. no need to DMCA.
+**Dear Apple,**
+
+**If you want me to remove the repo, just send me an email. no need to DMCA.**
 
 ===============
 It's a lightweight Apple HomeKit accessory protocol written in pure C, features:
