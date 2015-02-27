@@ -4,7 +4,7 @@ Apple HomeKit accessory written in C.
 
 It's a lightweight Apple HomeKit accessory protocol written in pure C, features:
 
-1. working demo based on Linux.
+1. working on Linux.
 
 2. not use any GPL/LGPL code.
 
